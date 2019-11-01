@@ -1,0 +1,105 @@
+/* This CSS for small Mobile*/
+@media (max-width: 460px) {
+
+	.header_social{
+	display:none;
+	}
+	
+	.date{
+	font-size:14px;
+	}
+	
+	.spOne{
+	margin:10px 0 0 0;
+	}
+	
+	.list_news h2 {
+	margin-top: 20px;
+	}
+	
+	.carousel-caption p a{
+	font-size:21px;
+	line-height:26px;
+	}
+	
+	.carousel{
+	float:left;
+	min-height:275px;
+	}
+	
+	.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+	height:200px;
+	}
+	
+	.logo > a img{
+	height:auto;
+	}
+	
+	.post_details img{
+	width:100%;
+	}
+	
+	#developmentTitle{
+	width:100%;
+	text-align:center;
+	}
+		#developmentTitle a{
+		float:left;
+		width:100%;
+		font-size:18px;
+		text-align:center;
+		margin:8px 0;
+		color:#1996E1;
+		}
+			#developmentTitle a:hover{
+			color:#FFF;
+			}
+
+	.developmentDetails{
+	line-height:22px;
+	}
+	
+	#webAddress{
+	float:left;
+	width:100%;
+	text-align:center;
+	}
+	
+	#footerLogo{
+	width:100%;
+	margin:10px 0 15px 0;
+	}
+	
+	#myControl{
+	position:relative;
+	}
+	
+	#marginControl{
+	display:none;
+	}
+	
+	#myCarousel{
+	height:auto;
+	}
+}
+
+
+/* This CSS for small Mobile*/
+@media (max-width: 767px) {
+.list_news h2 {
+  margin-top: 20px;
+}
+
+}
+
+/* This CSS for Tablet */
+@media (min-width: 768px) {
+}
+
+/* This CSS for Medium Devices */
+@media (min-width: 992px) {
+}
+
+/* This CSS for Large Devices */
+@media (min-width: 1200px) {
+}
